@@ -144,12 +144,29 @@ Dataset and trained model are included in the repository.
 
 ## Simulation
 
-Add screenshots/GIFs here:
+Screenshots from the project:
 
 - Gazebo house world
+
+  <img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/48dc89f8-2e6f-4567-a135-818f26149504" />
+
 - RViz navigation
-- TurtleBot3 autonomous movement
+
+  <img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/440161f1-3117-48c5-87b8-dd89ac25daff" />
+
+- Gazebo + Cartographer + Teleop
+
+  <img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/395022f6-cdd0-43c2-a8fa-6318af519338" />
+
+- Saved map
+
+  <img width="819" height="600" alt="Screenshot from 2025-09-06 11-04-54" src="https://github.com/user-attachments/assets/5fcc6e4b-4a5c-4b60-8b88-fbc1f7cfaf4c" />
+
 - Navigation path planning
+
+  <img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/f3308a89-f0a7-4059-b7f0-902ace91db88" />
+  <img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/60b24732-2f88-4893-8216-de8f593c3e5b" />
+
 
 ---
 
@@ -165,11 +182,3 @@ Add screenshots/GIFs here:
 ## Credits
 
 Built using ROS2 Humble, Nav2, Gazebo, and TurtleBot3.
-
-
-<img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/519b2409-7418-4b7e-9723-cd0e25c1a817" />
-<img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/48dc89f8-2e6f-4567-a135-818f26149504" />
-<img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/440161f1-3117-48c5-87b8-dd89ac25daff" />
-<img width="1855" height="1035" alt="image" src="https://github.com/user-attachments/assets/60b24732-2f88-4893-8216-de8f593c3e5b" />
-
-
