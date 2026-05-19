@@ -1,0 +1,16 @@
+rooms:
+  bedroom:
+    x: -4.16
+    y: 4.14
+    yaw: -0.26
+
+  livingroom:
+    x: 0.88
+    y: 1.54
+    yaw: 3.14
+
+  kitchen:
+    x: 8.33
+    y: 1.39
+    yaw: 3.14
+
